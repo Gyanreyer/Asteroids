@@ -6,10 +6,6 @@ For more info on this language, visit https://processing.org/
 
 This was a project for my Interactive Media Development course, I received a grade of 100% on this assignment.
 
-The "Geyer_Asteroids" folder contains all of my source code in the .pde files, which can be read using any text editor although it is intended to be used with the official Processing IDE.
-
-The windows executable version can be found in the "Executable Version" folder.
-
 ---
 
 CONTROLS:
