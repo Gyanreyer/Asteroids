@@ -1,6 +1,0 @@
-ACCEL=w
-DECEL=s
-LEFT=a
-RIGHT=d
-FIRE=space
-DEBUG=f
